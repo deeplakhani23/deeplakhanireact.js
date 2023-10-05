@@ -1,0 +1,227 @@
+
+.conteinor{
+    max-width: 100%;
+    text-align: center;
+    margin: auto;
+    background-color: white;
+    
+}
+.box1{
+    text-align: center;
+    display: flex;
+    border: 1px solid white;
+    justify-content: start; 
+}
+.box-demo1{
+    width: 100px;
+    height: 20px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.box-demo1{
+    width: 100px;
+    height: 100px; 
+    margin: 5px;
+    border-radius: 10px;
+    background: color #00ffa2;
+}
+.box-demo1{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.box2{
+    text-align: center;
+    display: flex;
+    border: 1px solid white;
+    justify-content: start; 
+}
+.box-demo2{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box-demo2{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box-demo2{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box3{
+    text-align: center;
+    display: flex;
+    border: 1px solid white;
+    justify-content: start; 
+}
+.box-demo3{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box-demo3{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box-demo3{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box4{
+    text-align: center;
+    display: flex;
+    border: 1px solid white;
+    justify-content: start; 
+}
+.box-demo4
+{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box-demo4
+{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box-demo4
+{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box5{
+    text-align: center;
+    display: flex;
+    border: 1px solid white;
+    justify-content: start; 
+}
+.box-demo5{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box-demo5{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box-demo5{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box6{
+    text-align: center;
+    display: flex;
+    border: 1px solid white;
+    justify-content: start; 
+}
+.box-demo6{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box-demo6{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box-demo6{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box7{
+    text-align: center;
+    display: flex;
+    border: 1px solid white;
+    justify-content: start; 
+}
+.box-demo7{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box-demo7{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box-demo7{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box8{
+    text-align: center;
+    display: flex;
+    border: 1px solid white;
+    justify-content: start; 
+}
+.box-demo8{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box-demo8{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.box-demo8{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
