@@ -1,0 +1,10 @@
+body{
+    width: 0;
+    margin: 0;
+    background-color: rgba(81, 146, 244, 0.502);
+}
+.full-screen-preview {
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;

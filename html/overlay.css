@@ -1,0 +1,33 @@
+body{
+    height: 50%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-image: url(nature.jpg);
+    background-color: beige;
+    background-repeat: no-repeat;
+}
+.overlay{
+    display: block;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    /* background-color: rgb(140, 135, 135); */
+    color: rgb(199, 194, 185);
+}
+.overlay h1{
+    margin-top: 80px;
+}
+.hr{
+    width: 56%;
+    height: 3px;
+    background-color: white;
+}
+.overlay p{
+    padding: 0 150px;
+    letter-spacing: 2px;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}

@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.col-4 a{
+    color: gray;
+}
+.blog-header-logo{
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-size: 2.25rem;
+}
+img{
+    background-color: rgb(60, 59, 59);
+    width: 200px;
+    height: 250px;
+}

@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    box-sizing: border-box;
+    background-color:  var(--body_color);
+}
+
+
+:root{
+    --wight: #fff;
+    --main_color: #7367f0;
+    --black: #000;
+    --body_color: #443b57;
+}
+
+
+
+.sidebar{
+    width: 220px;
+    height: 100vh;
+    overflow: auto;
+    position: fixed;
+    left: 0;
+    background-color: var(--main_color);
+    top: 0;
+}
+main {
+    width: calc(100% - 260px );
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+.header_srch .srch_input input:focus-visible{
+    outline: 0;
+    border: 0;
+}
+.header_srch{
+    position: fixed;
+    width: calc(100% - 260px);
+    top: 0;
+}
+
+.header_srch .srch_input input {
+    border: 0;
+    padding: 15px;
+    box-shadow: 0 0.125rem 0.25rem rgba(165,163,174,.3);
+    margin-top: 10px;
+    width: calc(100% - 30px);
+    border-radius: 5px;
+}
+
+.srch_input {
+    position: relative;
+}
+.srch_input img{
+    position: absolute;
+    width: 30px;
+    top: 17px ;
+    right: 10px;
+    height: auto;
+    border-radius: 50px;
+}
+.content_for_all_section{
+    margin-top:  80px;
+}
+.box_3{
+    display: flex;
+    flex: 0 0 50%;
+}
+.box_frist_slider,
+.box_second_slider{
+    flex: 0 0 50%;
+    width: 50%;
+}
+ .main-div1{
+    box-sizing: border-box;
+    background-color: #7367F0;
+    display: flex;
+    border-radius: 5px;
+}
+ .main-div1 .card-1 .card-data{
+    font-family: sans-serif;
+    color: white;
+    margin: 20px 10px;
+    line-height: 27px;
+}
+ .main-div1 .card-1 .card-data h1{
+    font-size: 21px;
+}
+ .main-div1 .card-1 h3{
+    color: white;
+    margin: 0 10px;
+    font-family: sans-serif;
+}
+ .main-div1 .card-1 .sub-data{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+ .main-div1 .card-1 .sub-data{
+    display: inline-block;
+    position: relative;
+    margin: 10px 5px;
+}
+ .main-div1 .card-1 .sub-data li{
+    display: flex;
+    font-size: 15px;
+    flex: 1 1 50%;
+    height: 55px;
+    font-family: sans-serif;
+    color: #fff;
+    letter-spacing: 0.5px;
+    text-align:start;
+    padding: 2px;
+}
