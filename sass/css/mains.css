@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.box {
+  border: 1px solid black;
+  margin: 50px;
+  padding: 50px;
+}
+
+.btn {
+  background-color: black;
+  padding: 10px;
+  border-radius: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+i {
+  color: black;
+}
+
+h5 {
+  font-size: 30px;
+}/*# sourceMappingURL=mains.css.map */

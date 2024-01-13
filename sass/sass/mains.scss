@@ -1,0 +1,31 @@
+@import '../variable/variable';
+
+.container{
+    display: $df;
+    justify-content: $j-c;
+    text-align: $ta-c;
+}
+
+.box{
+    border: $border-1 solid $c-b;
+    margin: $m-5;
+    padding: $p-5;
+}
+
+.btn{
+    background-color: $bg-b;
+    padding: $p-1;
+    border-radius: 20px ;
+    color: $c-w;
+    text-decoration: none;
+}
+i{
+
+    color: $c-b;
+
+    
+}
+h5{
+
+    font-size: $fs-3;
+}
